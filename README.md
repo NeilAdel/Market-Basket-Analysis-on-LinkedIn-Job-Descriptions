@@ -7,7 +7,9 @@ The project implements the Apriori and Multistage algorithms to discover pattern
 
 # Contents
 Report: The detailed report (AMD_project_report.pdf) explains the methodology, data preprocessing steps, algorithm implementation, results, and conclusions.
+
 Code: The Python scripts (MarketBasketAnalysis.ipynb) used for data preprocessing, algorithm implementation, and result visualization are provided in the code directory.
+
 Results: Consisting of algorithms output in .csv files and also visualizations as .png files.
 
 # Key Findings
