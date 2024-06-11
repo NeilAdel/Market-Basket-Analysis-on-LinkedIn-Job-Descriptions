@@ -1,0 +1,336 @@
+itemset,count,support
+"{'communication skills', 'customer service'}",411,0.03197945845004668
+"{'customer service', 'organizational skills'}",159,0.012371615312791783
+"{'problemsolving skills', 'customer service'}",107,0.008325552443199501
+"{'customer service', 'ability work independently'}",126,0.00980392156862745
+"{'ability work fastpaced environment', 'customer service'}",114,0.008870214752567693
+"{'high school diploma equivalent', 'customer service'}",157,0.012215997510115158
+"{'communication skills', 'organizational skills'}",226,0.01758481170245876
+"{'problemsolving skills', 'communication skills'}",240,0.018674136321195144
+"{'communication skills', 'ability work independently'}",109,0.008481170245876128
+"{'communication', 'customer service'}",1007,0.0783535636476813
+"{'problem solving', 'customer service'}",437,0.03400248988484283
+"{'attention detail', 'customer service'}",460,0.03579209461562403
+"{'problem solving', 'communication'}",703,0.054699657640834114
+"{'communication', 'attention detail'}",583,0.04536258948023654
+"{'communication', 'ability work independently'}",130,0.010115157173980703
+"{'problem solving', 'attention detail'}",270,0.02100840336134454
+"{'attention detail', 'ability work independently'}",124,0.009648303765950824
+"{'conflict resolution', 'customer service'}",154,0.011982570806100218
+"{'teamwork', 'customer service'}",774,0.06022408963585434
+"{'customer service', 'leadership'}",379,0.029489573607220668
+"{'training', 'customer service'}",344,0.026766262060379707
+"{'customer service', 'time management'}",462,0.03594771241830065
+"{'customer service', 'physical strength'}",108,0.008403361344537815
+"{'customer service', 'interpersonal skills'}",166,0.012916277622159975
+"{'teamwork', 'leadership'}",262,0.020385932150638032
+"{'teamwork', 'training'}",145,0.0112822906940554
+"{'teamwork', 'time management'}",385,0.029956427015250545
+"{'teamwork', 'ability work independently'}",126,0.00980392156862745
+"{'teamwork', 'attention detail'}",432,0.03361344537815126
+"{'training', 'leadership'}",320,0.024898848428260192
+"{'time management', 'leadership'}",271,0.02108621226268285
+"{'leadership', 'interpersonal skills'}",129,0.010037348272642391
+"{'attention detail', 'leadership'}",213,0.01657329598506069
+"{'training', 'time management'}",115,0.008948023653906007
+"{'training', 'attention detail'}",105,0.008169934640522876
+"{'attention detail', 'time management'}",262,0.020385932150638032
+"{'attention detail', 'interpersonal skills'}",118,0.009181450357920945
+"{'patient education', 'patient care'}",130,0.010115157173980703
+"{'multitasking', 'attention detail'}",106,0.00824774354186119
+"{'attention detail', 'adaptability'}",105,0.008169934640522876
+"{'adaptability', 'communication skills'}",105,0.008169934640522876
+"{'attention detail', 'microsoft office suite'}",107,0.008325552443199501
+"{'time management', 'organizational skills'}",101,0.007858699035169623
+"{'attention detail', 'organizational skills'}",115,0.008948023653906007
+"{'communication skills', 'interpersonal skills'}",259,0.020152505446623094
+"{'communication', 'collaboration'}",370,0.02878929349517585
+"{'communication', 'time management'}",672,0.05228758169934641
+"{'problem solving', 'time management'}",168,0.013071895424836602
+"{'multitasking', 'communication'}",223,0.01735138499844382
+"{'communication', 'organization'}",243,0.018907563025210083
+"{'communication', 'leadership'}",549,0.042717086834733894
+"{'communication', 'inventory management'}",157,0.012215997510115158
+"{'communication', 'leadership'}",628,0.04886399004046063
+"{'inventory management', 'leadership'}",143,0.011126672891378774
+"{'sales', 'customer service'}",264,0.02054154995331466
+"{'sales', 'communication'}",455,0.03540305010893246
+"{'teamwork', 'sales'}",281,0.021864301276065982
+"{'sales', 'leadership'}",158,0.012293806411453471
+"{'sales', 'training'}",127,0.009881730469965764
+"{'sales', 'high school diploma'}",129,0.010037348272642391
+"{'customer service', 'decision making'}",113,0.00879240585122938
+"{'customer service', 'inventory management'}",311,0.024198568316215373
+"{'safety', 'customer service'}",229,0.017818238406473702
+"{'customer service', 'high school diploma'}",334,0.025988173046996577
+"{'communication', 'decision making'}",181,0.014083411142234672
+"{'teamwork', 'communication'}",1126,0.08761282290694056
+"{'communication', 'training'}",315,0.024509803921568627
+"{'safety', 'communication'}",233,0.018129474011826952
+"{'communication', 'high school diploma'}",210,0.016339869281045753
+"{'teamwork', 'inventory management'}",139,0.010815437286025522
+"{'training', 'inventory management'}",137,0.010659819483348895
+"{'teamwork', 'safety'}",113,0.00879240585122938
+"{'teamwork', 'high school diploma'}",147,0.011437908496732025
+"{'safety', 'leadership'}",152,0.011826953003423592
+"{'standing', 'walking'}",101,0.007858699035169623
+"{'communication', 'planning'}",115,0.008948023653906007
+"{'problemsolving', 'communication'}",710,0.055244319950202306
+"{'problemsolving', 'attention detail'}",289,0.022486772486772486
+"{'problemsolving', 'time management'}",253,0.019685652038593213
+"{'attention detail', 'time management'}",180,0.014005602240896359
+"{'communication', 'interpersonal skills'}",310,0.024120759414877062
+"{'patient care', 'nursing'}",417,0.03244631185807657
+"{'documentation', 'nursing'}",149,0.011593526299408652
+"{'communication', 'nursing'}",315,0.024509803921568627
+"{'teamwork', 'nursing'}",201,0.015639589169000934
+"{'patient care', 'documentation'}",166,0.012916277622159975
+"{'communication', 'patient care'}",343,0.026688453159041396
+"{'teamwork', 'patient care'}",228,0.017740429505135387
+"{'communication', 'documentation'}",150,0.011671335200746966
+"{'communication skills', 'flexibility'}",120,0.009337068160597572
+"{'written communication', 'verbal communication'}",202,0.015717398070339245
+"{'cleaning', 'customer service'}",131,0.010192966075319016
+"{'customer service', 'cash handling'}",262,0.020385932150638032
+"{'supervisory experience', 'customer service'}",137,0.010659819483348895
+"{'customer service', 'standing'}",109,0.008481170245876128
+"{'customer service', 'fastpaced environment'}",116,0.00902583255524432
+"{'communication skills', 'high school diploma'}",103,0.00801431683784625
+"{'communication skills', 'analytical skills'}",122,0.009492685963274199
+"{'medical benefits', 'dental benefits'}",131,0.010192966075319016
+"{'motivation', 'leadership'}",109,0.008481170245876128
+"{'flexibility', 'leadership'}",120,0.009337068160597572
+"{'communication', 'flexibility'}",255,0.01984126984126984
+"{'communication', 'project management'}",401,0.031201369436663556
+"{'budgeting', 'project management'}",106,0.00824774354186119
+"{'project management', 'leadership'}",222,0.01727357609710551
+"{'teamwork', 'communication skills'}",381,0.02964519140989729
+"{'teamwork', 'interpersonal skills'}",128,0.009959539371304078
+"{'teamwork', 'training'}",165,0.012838468720821661
+"{'safety', 'teamwork'}",114,0.008870214752567693
+"{'training', 'communication'}",257,0.019996887643946467
+"{'training', 'leadership'}",146,0.011360099595393714
+"{'problemsolving', 'training'}",116,0.00902583255524432
+"{'communication', 'negotiation'}",127,0.009881730469965764
+"{'research', 'communication'}",101,0.007858699035169623
+"{'problemsolving', 'leadership'}",266,0.020697167755991286
+"{'problemsolving', 'communication'}",190,0.01478369125427949
+"{'scheduling', 'project management'}",104,0.008092125739184563
+"{'communication', 'microsoft office'}",120,0.009337068160597572
+"{'communication', 'analytical skills'}",202,0.015717398070339245
+"{'communication', 'planning'}",108,0.008403361344537815
+"{'attention detail', 'analytical skills'}",136,0.010582010582010581
+"{'communication', 'documentation'}",144,0.011204481792717087
+"{'communication', 'reporting'}",112,0.008714596949891068
+"{'communication', 'diversity'}",125,0.009726112667289137
+"{'inclusion', 'communication'}",117,0.009103641456582634
+"{'inclusion', 'diversity'}",276,0.021475256769374416
+"{'communication skills', 'project management'}",168,0.013071895424836602
+"{'medical', 'dental'}",115,0.008948023653906007
+"{'teamwork', 'data analysis'}",173,0.013460939931528167
+"{'problem solving', 'leadership'}",169,0.013149704326174915
+"{'problem solving', 'teamwork'}",273,0.021241830065359478
+"{'problem solving', 'time management'}",251,0.01953003423591659
+"{'problem solving', 'communication'}",225,0.01750700280112045
+"{'teamwork', 'leadership'}",369,0.028711484593837534
+"{'teamwork', 'communication'}",284,0.02209772798008092
+"{'communication', 'time management'}",136,0.010582010582010581
+"{'communication skills', 'analytical skills'}",141,0.010971055088702147
+"{'communication skills', 'time management'}",206,0.0160286336756925
+"{'interpersonal skills', 'organizational skills'}",121,0.009414877061935886
+"{'time management', 'interpersonal skills'}",119,0.009259259259259259
+"{'teamwork', 'project management'}",191,0.014861500155617803
+"{'problem solving', 'project management'}",213,0.01657329598506069
+"{'communication', 'scheduling'}",181,0.014083411142234672
+"{'teamwork', 'scheduling'}",109,0.008481170245876128
+"{'communication', 'microsoft office'}",158,0.012293806411453471
+"{'travel', 'communication'}",126,0.00980392156862745
+"{'teamwork', 'problem solving'}",263,0.020463741051976347
+"{'medical benefits', 'vision benefits'}",117,0.009103641456582634
+"{'vision benefits', 'dental benefits'}",120,0.009337068160597572
+"{'sales', 'merchandising'}",105,0.008169934640522876
+"{'sales', 'time management'}",180,0.014005602240896359
+"{'communication', 'merchandising'}",135,0.01050420168067227
+"{'dental insurance', 'medical insurance'}",105,0.008169934640522876
+"{'vision insurance', 'dental insurance'}",242,0.01882975412387177
+"{'dental insurance', 'life insurance'}",150,0.011671335200746966
+"{'vision insurance', 'life insurance'}",137,0.010659819483348895
+"{'data analysis', 'communication'}",224,0.017429193899782137
+"{'problem solving', 'data analysis'}",157,0.012215997510115158
+"{'communication', 'adaptability'}",330,0.025676937441643323
+"{'communication', 'organizational skills'}",206,0.0160286336756925
+"{'communication', 'microsoft office suite'}",220,0.017117958294428883
+"{'teamwork', 'collaboration'}",128,0.009959539371304078
+"{'teamwork', 'adaptability'}",253,0.019685652038593213
+"{'teamwork', 'organizational skills'}",101,0.007858699035169623
+"{'problem solving', 'microsoft office suite'}",101,0.007858699035169623
+"{'attention detail', 'project management'}",168,0.013071895424836602
+"{'data analysis', 'project management'}",119,0.009259259259259259
+"{'communication', 'project management'}",132,0.01027077497665733
+"{'computer skills', 'communication'}",109,0.008481170245876128
+"{'project management', 'analytical skills'}",129,0.010037348272642391
+"{'project management', 'microsoft office suite'}",104,0.008092125739184563
+"{'problem solving', 'analytical skills'}",107,0.008325552443199501
+"{'project management', 'bachelors degree'}",133,0.010348583877995643
+"{'problemsolving', 'communication skills'}",131,0.010192966075319016
+"{'project management', 'collaboration'}",116,0.00902583255524432
+"{'communication', 'microsoft office suite'}",110,0.008558979147214442
+"{'communication skills', 'interpersonal skills'}",143,0.011126672891378774
+"{'customer service', 'retail'}",130,0.010115157173980703
+"{'sales', 'customer service'}",427,0.0332244008714597
+"{'problemsolving', 'customer service'}",483,0.03758169934640523
+"{'communication', 'retail'}",102,0.007936507936507936
+"{'problemsolving', 'sales'}",162,0.012605042016806723
+"{'teamwork', 'problemsolving'}",353,0.027466542172424526
+"{'customer service', 'organization'}",127,0.009881730469965764
+"{'problem solving', 'leadership'}",291,0.022642390289449112
+"{'communication skills', 'leadership'}",111,0.008636788048552755
+"{'problem solving', 'communication skills'}",106,0.00824774354186119
+"{'communication skills', 'leadership skills'}",118,0.009181450357920945
+"{'communication', 'collaboration'}",187,0.01455026455026455
+"{'communication', 'bachelors degree'}",219,0.017040149393090568
+"{'communication', 'professionalism'}",129,0.010037348272642391
+"{'teamwork', 'attention detail'}",180,0.014005602240896359
+"{'adaptability', 'leadership'}",133,0.010348583877995643
+"{'time management', 'project management'}",142,0.01104886399004046
+"{'problem solving', 'multitasking'}",114,0.008870214752567693
+"{'multitasking', 'attention detail'}",121,0.009414877061935886
+"{'multitasking', 'time management'}",119,0.009259259259259259
+"{'customer service', 'lifting'}",181,0.014083411142234672
+"{'communication', 'lifting'}",168,0.013071895424836602
+"{'part team', 'ability work independently'}",111,0.008636788048552755
+"{'teamwork', 'problemsolving'}",290,0.0225645813881108
+"{'communication', 'critical thinking'}",105,0.008169934640522876
+"{'training', 'hiring'}",132,0.01027077497665733
+"{'training', 'scheduling'}",142,0.01104886399004046
+"{'customer service', 'physical stamina'}",142,0.01104886399004046
+"{'customer service', 'retail experience'}",213,0.01657329598506069
+"{'problem solving', 'sales'}",183,0.014239028944911298
+"{'customer service', 'leadership'}",289,0.022486772486772486
+"{'supervision', 'communication'}",128,0.009959539371304078
+"{'teamwork', 'customer service'}",179,0.013927793339558046
+"{'customer service', 'inventory management'}",144,0.011204481792717087
+"{'communication', 'inventory management'}",190,0.01478369125427949
+"{'patient education', 'nursing'}",114,0.008870214752567693
+"{'food safety', 'inventory management'}",113,0.00879240585122938
+"{'scheduling', 'inventory management'}",114,0.008870214752567693
+"{'scheduling', 'customer service'}",191,0.014861500155617803
+"{'safety', 'training'}",127,0.009881730469965764
+"{'motivation', 'customer service'}",101,0.007858699035169623
+"{'initiative', 'communication'}",121,0.009414877061935886
+"{'sales', 'attention detail'}",121,0.009414877061935886
+"{'coaching', 'leadership'}",163,0.012682850918145036
+"{'training', 'development'}",211,0.016417678182384064
+"{'training', 'coaching'}",107,0.008325552443199501
+"{'training', 'customer service'}",161,0.01252723311546841
+"{'multitasking', 'customer service'}",193,0.015017117958294428
+"{'communication', 'customer service'}",400,0.03112356053532524
+"{'data analysis', 'communication'}",194,0.015094926859632742
+"{'time management', 'leadership'}",112,0.008714596949891068
+"{'attention detail', 'communication skills'}",283,0.02201991907874261
+"{'customer service', 'communication skills'}",153,0.011904761904761904
+"{'medication administration', 'nursing'}",113,0.00879240585122938
+"{'leadership', 'nursing'}",159,0.012371615312791783
+"{'collaboration', 'nursing'}",121,0.009414877061935886
+"{'leadership', 'collaboration'}",145,0.0112822906940554
+"{'customer service', 'collaboration'}",105,0.008169934640522876
+"{'communication', 'supervision'}",103,0.00801431683784625
+"{'teamwork', 'multitasking'}",139,0.010815437286025522
+"{'customer service', 'microsoft office'}",121,0.009414877061935886
+"{'high school diploma ged', 'customer service'}",115,0.008948023653906007
+"{'leadership', 'bachelors degree'}",109,0.008481170245876128
+"{'critical thinking', 'nursing'}",159,0.012371615312791783
+"{'teamwork', 'critical thinking'}",119,0.009259259259259259
+"{'communication', 'decisionmaking'}",128,0.009959539371304078
+"{'communication skills', 'leadership'}",102,0.007936507936507936
+"{'microsoft office suite', 'leadership'}",110,0.008558979147214442
+"{'management', 'leadership'}",106,0.00824774354186119
+"{'problem solving', 'inventory management'}",109,0.008481170245876128
+"{'communication skills', 'inventory management'}",106,0.00824774354186119
+"{'customer service', 'flexibility'}",203,0.01579520697167756
+"{'communication', 'sales'}",146,0.011360099595393714
+"{'conflict resolution', 'communication'}",177,0.013772175536881419
+"{'communication', 'cash handling'}",108,0.008403361344537815
+"{'problemsolving', 'decisionmaking'}",129,0.010037348272642391
+"{'problemsolving', 'adaptability'}",155,0.012060379707438531
+"{'food safety', 'customer service'}",144,0.011204481792717087
+"{'safety', 'communication'}",135,0.01050420168067227
+"{'teamwork', 'collaboration'}",133,0.010348583877995643
+"{'development', 'customer service'}",100,0.00778089013383131
+"{'medical', 'vision'}",104,0.008092125739184563
+"{'vision', 'dental'}",119,0.009259259259259259
+"{'data analysis', 'time management'}",133,0.010348583877995643
+"{'data analysis', 'project management'}",139,0.010815437286025522
+"{'problemsolving', 'project management'}",116,0.00902583255524432
+"{'data analysis', 'problemsolving'}",125,0.009726112667289137
+"{'data analysis', 'leadership'}",112,0.008714596949891068
+"{'data analysis', 'bachelors degree'}",114,0.008870214752567693
+"{'problemsolving', 'leadership'}",157,0.012215997510115158
+"{'problemsolving', 'critical thinking'}",101,0.007858699035169623
+"{'communication', 'critical thinking'}",207,0.01610644257703081
+"{'problemsolving', 'time management'}",133,0.010348583877995643
+"{'adaptability', 'customer service'}",198,0.015406162464985995
+"{'product knowledge', 'customer service'}",147,0.011437908496732025
+"{'customer service', 'merchandising'}",266,0.020697167755991286
+"{'problem solving', 'decision making'}",185,0.014394646747587924
+"{'problem solving', 'adaptability'}",154,0.011982570806100218
+"{'microsoft excel', 'microsoft word'}",107,0.008325552443199501
+"{'food safety', 'communication'}",102,0.007936507936507936
+"{'coaching', 'customer service'}",130,0.010115157173980703
+"{'time management', 'organizational skills'}",135,0.01050420168067227
+"{'teamwork', 'flexibility'}",212,0.01649548708372238
+"{'customer service', 'marketing'}",123,0.009570494864612512
+"{'sales', 'marketing'}",162,0.012605042016806723
+"{'sales', 'communication skills'}",124,0.009648303765950824
+"{'training', 'scheduling'}",100,0.00778089013383131
+"{'coaching', 'communication'}",113,0.00879240585122938
+"{'communication', 'scheduling'}",145,0.0112822906940554
+"{'leadership', 'team management'}",111,0.008636788048552755
+"{'project management', 'leadership'}",107,0.008325552443199501
+"{'data analysis', 'communication skills'}",111,0.008636788048552755
+"{'cpr', 'nursing'}",100,0.00778089013383131
+"{'sales', 'negotiation'}",102,0.007936507936507936
+"{'time management', 'patient care'}",111,0.008636788048552755
+"{'problemsolving', 'patient care'}",110,0.008558979147214442
+"{'teamwork', 'time management'}",211,0.016417678182384064
+"{'time management', 'flexibility'}",118,0.009181450357920945
+"{'data analysis', 'reporting'}",107,0.008325552443199501
+"{'patient care', 'medication administration'}",103,0.00801431683784625
+"{'problemsolving', 'flexibility'}",109,0.008481170245876128
+"{'teamwork', 'professionalism'}",104,0.008092125739184563
+"{'problem solving', 'communication skills'}",171,0.01330532212885154
+"{'critical thinking', 'patient care'}",148,0.011515717398070339
+"{'teamwork', 'critical thinking'}",115,0.008948023653906007
+"{'customer service', 'time management'}",116,0.00902583255524432
+"{'health insurance', 'dental insurance'}",167,0.012994086523498288
+"{'vision insurance', 'health insurance'}",157,0.012215997510115158
+"{'management', 'communication'}",147,0.011437908496732025
+"{'attention detail', 'inventory management'}",107,0.008325552443199501
+"{'communication', 'physical stamina'}",124,0.009648303765950824
+"{'health insurance', 'life insurance'}",114,0.008870214752567693
+"{'communication', 'team leadership'}",114,0.008870214752567693
+"{'drivers license', 'communication'}",107,0.008325552443199501
+"{'patient care', 'collaboration'}",118,0.009181450357920945
+"{'data analysis', 'attention detail'}",137,0.010659819483348895
+"{'communication', 'reporting'}",102,0.007936507936507936
+"{'written communication', 'verbal communication'}",113,0.00879240585122938
+"{'bls', 'acls'}",117,0.009103641456582634
+"{'scheduling', 'leadership'}",101,0.007858699035169623
+"{'teamwork', 'physical stamina'}",104,0.008092125739184563
+"{'budgeting', 'communication'}",141,0.010971055088702147
+"{'conflict resolution', 'leadership'}",133,0.010348583877995643
+"{'adaptability', 'time management'}",132,0.01027077497665733
+"{'leadership', 'decision making'}",121,0.009414877061935886
+"{'customer service', 'microsoft office suite'}",159,0.012371615312791783
+"{'computer skills', 'customer service'}",115,0.008948023653906007
+"{'teamwork', 'microsoft office suite'}",110,0.008558979147214442
+"{'communication', 'coaching'}",113,0.00879240585122938
+"{'critical thinking', 'time management'}",106,0.00824774354186119
+"{'patient care', 'leadership'}",126,0.00980392156862745
+"{'communication', 'team management'}",113,0.00879240585122938
+"{'attention detail', 'flexibility'}",114,0.008870214752567693
+"{'scheduling', 'leadership'}",111,0.008636788048552755
+"{'problem solving', 'customer service'}",106,0.00824774354186119
+"{'problemsolving', 'collaboration'}",110,0.008558979147214442
+"{'leadership', 'collaboration'}",120,0.009337068160597572
+"{'problem solving', 'training'}",112,0.008714596949891068

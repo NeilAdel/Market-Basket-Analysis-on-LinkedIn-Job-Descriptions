@@ -1,0 +1,652 @@
+support,itemsets,count
+0.014005602240896359,{ability work fastpaced environment},180
+0.022953625894802366,{ability work independently},295
+0.0112822906940554,{ability work pressure},145
+0.012449424214130096,{account management},160
+0.03042328042328042,{accounting},391
+0.012838468720821661,{accuracy},165
+0.018207282913165267,{acls},234
+0.0469187675070028,{adaptability},603
+0.010971055088702147,{analysis},141
+0.05003112356053532,{analytical skills},643
+0.013616557734204794,{assessment},175
+0.10286336756924992,{attention detail},1322
+0.014939309056956116,{autocad},192
+0.010348583877995643,{aws},133
+0.05742296918767507,{bachelors degree},738
+0.012760659819483348,{background check},164
+0.014472455648926238,{bending},186
+0.021708683473389355,{bls},279
+0.01649548708372238,{bls certification},212
+0.01875194522253346,{budget management},241
+0.035480859010270774,{budgeting},456
+0.019685652038593213,{business development},253
+0.017040149393090568,{case management},219
+0.024431995020230315,{cash handling},314
+0.01353874883286648,{change management},174
+0.013383131030189854,{civil engineering},172
+0.016728913787737318,{cleaning},215
+0.034080298786181136,{coaching},438
+0.06746031746031746,{collaboration},867
+0.2862589480236539,{communication},3679
+0.1574852163087457,{communication skills},2024
+0.013071895424836602,{compassion},168
+0.02505446623093682,{compliance},322
+0.02629940865234983,{computer skills},338
+0.01836290071584189,{confidentiality},236
+0.02933395580454404,{conflict resolution},377
+0.011126672891378774,{construction},143
+0.010815437286025522,{construction management},139
+0.013616557734204794,{continuing education},175
+0.012449424214130096,{continuous improvement},160
+0.014705882352941176,{counseling},189
+0.021164021164021163,{cpr},272
+0.01478369125427949,{cpr certification},190
+0.04123871770930594,{critical thinking},530
+0.21763149704326176,{customer service},2797
+0.06777155306567072,{data analysis},871
+0.010426392779333956,{data collection},134
+0.019452225334578275,{data entry},250
+0.027544351073762838,{decision making},354
+0.017973856209150325,{decisionmaking},231
+0.012371615312791783,{dental},159
+0.011982570806100218,{dental benefits},154
+0.024198568316215373,{dental insurance},311
+0.010815437286025522,{design},139
+0.010815437286025522,{detailoriented},139
+0.029489573607220668,{development},379
+0.010893246187363835,{disability insurance},140
+0.0291005291005291,{diversity},374
+0.044273264861500156,{documentation},569
+0.026455026455026454,{drivers license},340
+0.02030812324929972,{education},261
+0.012994086523498288,{electrical engineering},167
+0.013616557734204794,{empathy},175
+0.011671335200746966,{employee assistance program},150
+0.022953625894802366,{engineering},295
+0.011826953003423592,{english},152
+0.010348583877995643,{english proficiency},133
+0.02178649237472767,{equal opportunity employer},280
+0.010737628384687208,{ethics},138
+0.015172735760971055,{evaluation},195
+0.032290694055399936,{excel},415
+0.018985371926548398,{fastpaced environment},244
+0.015328353563647682,{finance},197
+0.015483971366324307,{financial analysis},199
+0.010115157173980703,{financial management},130
+0.013227513227513227,{financial reporting},170
+0.04061624649859944,{flexibility},522
+0.014394646747587924,{flexible schedule},185
+0.015717398070339245,{food preparation},202
+0.028400248988484283,{food safety},365
+0.012449424214130096,{forecasting},160
+0.020930594460006224,{health},269
+0.02178649237472767,{health insurance},280
+0.02653283535636477,{healthcare},341
+0.04886399004046063,{high school diploma},628
+0.02061935885465297,{high school diploma equivalent},265
+0.019296607531901648,{high school diploma ged},248
+0.01882975412387177,{hiring},242
+0.010737628384687208,{hospitality},138
+0.026221599751011515,{inclusion},337
+0.010426392779333956,{independent work},134
+0.011204481792717087,{infection control},144
+0.01882975412387177,{initiative},242
+0.011437908496732025,{innovation},147
+0.013071895424836602,{integrity},168
+0.07819794584500467,{interpersonal skills},1005
+0.013772175536881419,{inventory control},177
+0.056022408963585436,{inventory management},720
+0.010348583877995643,{java},133
+0.02707749766573296,{k},348
+0.011126672891378774,{k plan},143
+0.14176781823840648,{leadership},1822
+0.01976346093993153,{leadership skills},254
+0.028478057889822595,{life insurance},366
+0.030656707127295364,{lifting},394
+0.023264861500155616,{maintenance},299
+0.027777777777777776,{management},357
+0.012994086523498288,{manufacturing},167
+0.026766262060379707,{marketing},344
+0.016339869281045753,{masters degree},210
+0.012293806411453471,{mechanical engineering},158
+0.01680672268907563,{medical},216
+0.012449424214130096,{medical benefits},160
+0.014083411142234672,{medical terminology},181
+0.015328353563647682,{medication administration},197
+0.0225645813881108,{mentoring},290
+0.030501089324618737,{merchandising},392
+0.01953003423591659,{microsoft excel},251
+0.04933084344849051,{microsoft office},634
+0.05718954248366013,{microsoft office suite},735
+0.015328353563647682,{microsoft word},197
+0.018596327419856833,{motivation},239
+0.04614067849361967,{multitasking},593
+0.024898848428260192,{negotiation},320
+0.012293806411453471,{networking},158
+0.06940553999377529,{nursing},892
+0.03828197945845005,{organization},492
+0.05718954248366013,{organizational skills},735
+0.010659819483348895,{outlook},137
+0.011904761904761904,{paid holidays},153
+0.02964519140989729,{paid time},381
+0.07679738562091504,{patient care},987
+0.02100840336134454,{patient education},270
+0.015950824774354187,{performance management},205
+0.017740429505135387,{physical stamina},228
+0.015094926859632742,{physical strength},194
+0.03112356053532524,{planning},400
+0.011593526299408652,{positive attitude},149
+0.010971055088702147,{powerpoint},141
+0.025287892934951758,{presentation skills},325
+0.020463741051976347,{prioritization},263
+0.1110333022097728,{problem solving},1427
+0.09912854030501089,{problemsolving},1274
+0.0338468720821662,{problemsolving skills},435
+0.025521319638966696,{procedures},328
+0.013772175536881419,{process improvement},177
+0.017662620603797075,{product knowledge},227
+0.01906318082788671,{professional development},245
+0.018674136321195144,{professionalism},240
+0.09803921568627451,{project management},1260
+0.017429193899782137,{python},224
+0.02832244008714597,{quality assurance},364
+0.030034235916588856,{quality control},386
+0.012060379707438531,{quality improvement},155
+0.027155306567071272,{registered nurse},349
+0.010582010582010581,{regulations},136
+0.015172735760971055,{regulatory compliance},195
+0.01610644257703081,{relationship building},207
+0.01050420168067227,{report writing},135
+0.03081232492997199,{reporting},396
+0.029800809212573918,{research},383
+0.017896047307812014,{retail},230
+0.024354186118892,{retail experience},313
+0.011360099595393714,{retail management},146
+0.023109243697478993,{risk management},297
+0.0112822906940554,{rn},145
+0.010037348272642391,{rn license},129
+0.05539993775287893,{safety},712
+0.08029878618113913,{sales},1032
+0.014472455648926238,{sanitation},186
+0.010815437286025522,{sap},139
+0.04925303454715219,{scheduling},633
+0.016339869281045753,{security},210
+0.012605042016806723,{selfmotivation},162
+0.017896047307812014,{sql},230
+0.01906318082788671,{standing},245
+0.011904761904761904,{strategic planning},153
+0.032679738562091505,{supervision},420
+0.02178649237472767,{supervisory experience},280
+0.017896047307812014,{teaching},230
+0.013149704326174915,{team building},169
+0.011360099595393714,{team collaboration},146
+0.026143790849673203,{team leadership},336
+0.024665421724245254,{team management},317
+0.01353874883286648,{team player},174
+0.013149704326174915,{team work},169
+0.17592592592592593,{teamwork},2261
+0.01027077497665733,{technical writing},132
+0.10784313725490197,{time management},1386
+0.011437908496732025,{time management skills},147
+0.08558979147214442,{training},1100
+0.031668222844693436,{travel},407
+0.011360099595393714,{travel nursing},146
+0.032524120759414875,{troubleshooting},418
+0.014705882352941176,{tuition reimbursement},189
+0.010971055088702147,{us citizenship},141
+0.02279800809212574,{valid drivers license},293
+0.03478057889822596,{verbal communication},447
+0.014628073451602863,{vision},188
+0.011360099595393714,{vision benefits},146
+0.025676937441643323,{vision insurance},330
+0.01455026455026455,{walking},187
+0.011826953003423592,{weekly pay},152
+0.012605042016806723,{word},162
+0.010348583877995643,{writing},133
+0.012916277622159975,{written},166
+0.041705571117335825,{written communication},536
+0.01027077497665733,{written communication skills},132
+0.016184251478369126,{years experience},208
+0.01050420168067227,"{ability work independently, attention detail}",135
+0.012760659819483348,"{acls, bls}",164
+0.013849984438219732,"{attention detail, adaptability}",178
+0.027933395580454403,"{communication, adaptability}",359
+0.017818238406473702,"{customer service, adaptability}",229
+0.012449424214130096,"{flexibility, adaptability}",160
+0.014316837846249611,"{leadership, adaptability}",184
+0.013616557734204794,"{problem solving, adaptability}",175
+0.014628073451602863,"{problemsolving, adaptability}",188
+0.024509803921568627,"{adaptability, teamwork}",315
+0.015328353563647682,"{time management, adaptability}",197
+0.014239028944911298,"{attention detail, analytical skills}",183
+0.017117958294428883,"{analytical skills, communication}",220
+0.019996887643946467,"{analytical skills, communication skills}",257
+0.012060379707438531,"{interpersonal skills, analytical skills}",155
+0.011437908496732025,"{leadership, analytical skills}",147
+0.013383131030189854,"{problem solving, analytical skills}",172
+0.013071895424836602,"{project management, analytical skills}",168
+0.014161220043572984,"{analytical skills, teamwork}",182
+0.010582010582010581,"{time management, analytical skills}",136
+0.04894179894179894,"{attention detail, communication}",629
+0.02878929349517585,"{attention detail, communication skills}",370
+0.03952692187986306,"{attention detail, customer service}",508
+0.012215997510115158,"{data analysis, attention detail}",157
+0.013071895424836602,"{flexibility, attention detail}",168
+0.014239028944911298,"{attention detail, interpersonal skills}",183
+0.010192966075319016,"{attention detail, inventory management}",131
+0.01976346093993153,"{leadership, attention detail}",254
+0.012994086523498288,"{microsoft office suite, attention detail}",167
+0.016884531590413945,"{multitasking, attention detail}",217
+0.010971055088702147,"{attention detail, organization}",141
+0.016184251478369126,"{attention detail, organizational skills}",208
+0.026143790849673203,"{attention detail, problem solving}",336
+0.027699968876439465,"{attention detail, problemsolving}",356
+0.010192966075319016,"{problemsolving skills, attention detail}",131
+0.013927793339558046,"{attention detail, project management}",179
+0.010348583877995643,"{sales, attention detail}",133
+0.04676314970432618,"{attention detail, teamwork}",601
+0.03400248988484283,"{time management, attention detail}",437
+0.010582010582010581,"{attention detail, training}",136
+0.01882975412387177,"{bachelors degree, communication}",242
+0.01104886399004046,"{bachelors degree, communication skills}",142
+0.011126672891378774,"{project management, bachelors degree}",143
+0.010192966075319016,"{bending, lifting}",131
+0.017896047307812014,"{budgeting, communication}",230
+0.011360099595393714,"{leadership, budgeting}",146
+0.0112822906940554,"{project management, budgeting}",145
+0.012682850918145036,"{cash handling, communication}",163
+0.021864301276065982,"{cash handling, customer service}",281
+0.011360099595393714,"{cleaning, customer service}",146
+0.016728913787737318,"{coaching, communication}",215
+0.015017117958294428,"{coaching, customer service}",193
+0.01610644257703081,"{leadership, coaching}",207
+0.014316837846249611,"{coaching, training}",184
+0.04123871770930594,"{collaboration, communication}",530
+0.010659819483348895,"{collaboration, customer service}",137
+0.020074696545284782,"{leadership, collaboration}",258
+0.010582010582010581,"{collaboration, patient care}",136
+0.014083411142234672,"{collaboration, problem solving}",181
+0.01455026455026455,"{collaboration, problemsolving}",187
+0.011671335200746966,"{collaboration, project management}",150
+0.019685652038593213,"{collaboration, teamwork}",253
+0.010893246187363835,"{collaboration, time management}",140
+0.012215997510115158,"{compliance, communication}",157
+0.01657329598506069,"{conflict resolution, communication}",213
+0.023498288204170558,"{critical thinking, communication}",302
+0.10698723934018052,"{customer service, communication}",1375
+0.031512605042016806,"{data analysis, communication}",405
+0.01680672268907563,"{decision making, communication}",216
+0.011515717398070339,"{decisionmaking, communication}",148
+0.012371615312791783,"{development, communication}",159
+0.010659819483348895,"{diversity, communication}",137
+0.022175536881419235,"{documentation, communication}",285
+0.010037348272642391,"{education, communication}",129
+0.020774976657329598,"{flexibility, communication}",267
+0.012994086523498288,"{food safety, communication}",167
+0.017896047307812014,"{high school diploma, communication}",230
+0.010115157173980703,"{initiative, communication}",130
+0.025910364145658265,"{interpersonal skills, communication}",333
+0.02629940865234983,"{inventory management, communication}",338
+0.08948023653906007,"{leadership, communication}",1150
+0.014316837846249611,"{lifting, communication}",184
+0.015017117958294428,"{management, communication}",193
+0.012449424214130096,"{marketing, communication}",160
+0.010348583877995643,"{mentoring, communication}",133
+0.016962340491752256,"{merchandising, communication}",218
+0.02100840336134454,"{microsoft office, communication}",270
+0.02482103952692188,"{microsoft office suite, communication}",319
+0.011126672891378774,"{motivation, communication}",143
+0.02131963896669779,"{multitasking, communication}",274
+0.015172735760971055,"{communication, negotiation}",195
+0.024898848428260192,"{nursing, communication}",320
+0.02178649237472767,"{organization, communication}",280
+0.017896047307812014,"{organizational skills, communication}",230
+0.03042328042328042,"{patient care, communication}",391
+0.010426392779333956,"{physical stamina, communication}",134
+0.016651104886399003,"{planning, communication}",214
+0.0694833488951136,"{problem solving, communication}",893
+0.06800497976968566,"{problemsolving, communication}",874
+0.010115157173980703,"{product knowledge, communication}",130
+0.010659819483348895,"{professionalism, communication}",137
+0.0403828197945845,"{project management, communication}",519
+0.011593526299408652,"{quality assurance, communication}",149
+0.012215997510115158,"{communication, quality control}",157
+0.01579520697167756,"{reporting, communication}",203
+0.012371615312791783,"{communication, research}",159
+0.012215997510115158,"{retail, communication}",157
+0.027466542172424526,"{safety, communication}",353
+0.04559601618425148,"{sales, communication}",586
+0.024743230625583566,"{scheduling, communication}",318
+0.01727357609710551,"{supervision, communication}",222
+0.011360099595393714,"{team leadership, communication}",146
+0.012215997510115158,"{team management, communication}",157
+0.10737628384687208,"{communication, teamwork}",1380
+0.06201369436663554,"{time management, communication}",797
+0.042483660130718956,"{training, communication}",546
+0.010815437286025522,"{travel, communication}",139
+0.0112822906940554,"{troubleshooting, communication}",145
+0.043495175848117025,"{customer service, communication skills}",559
+0.013149704326174915,"{data analysis, communication skills}",169
+0.010737628384687208,"{flexibility, communication skills}",138
+0.010348583877995643,"{high school diploma, communication skills}",133
+0.03081232492997199,"{interpersonal skills, communication skills}",396
+0.011904761904761904,"{inventory management, communication skills}",153
+0.016262060379707437,"{leadership, communication skills}",209
+0.012916277622159975,"{leadership skills, communication skills}",166
+0.01330532212885154,"{microsoft office suite, communication skills}",171
+0.024898848428260192,"{organizational skills, communication skills}",320
+0.010037348272642391,"{presentation skills, communication skills}",129
+0.020774976657329598,"{problem solving, communication skills}",267
+0.016417678182384064,"{problemsolving, communication skills}",211
+0.02357609710550887,"{problemsolving skills, communication skills}",303
+0.01836290071584189,"{project management, communication skills}",236
+0.011982570806100218,"{sales, communication skills}",154
+0.035247432306255835,"{teamwork, communication skills}",453
+0.02279800809212574,"{time management, communication skills}",293
+0.011671335200746966,"{training, communication skills}",150
+0.01050420168067227,"{customer service, computer skills}",135
+0.014161220043572984,"{conflict resolution, customer service}",182
+0.013383131030189854,"{conflict resolution, leadership}",172
+0.01104886399004046,"{conflict resolution, time management}",142
+0.012293806411453471,"{leadership, critical thinking}",158
+0.01252723311546841,"{critical thinking, nursing}",161
+0.013927793339558046,"{critical thinking, patient care}",179
+0.011749144102085279,"{critical thinking, problem solving}",151
+0.011826953003423592,"{critical thinking, problemsolving}",152
+0.018129474011826952,"{critical thinking, teamwork}",233
+0.011749144102085279,"{time management, critical thinking}",151
+0.010893246187363835,"{data analysis, customer service}",140
+0.010971055088702147,"{decision making, customer service}",141
+0.011126672891378774,"{customer service, development}",143
+0.01727357609710551,"{flexibility, customer service}",222
+0.017896047307812014,"{food safety, customer service}",230
+0.027622159975101153,"{customer service, high school diploma}",355
+0.012916277622159975,"{customer service, high school diploma equivalent}",166
+0.01050420168067227,"{hiring, customer service}",135
+0.018129474011826952,"{interpersonal skills, customer service}",233
+0.034858387799564274,"{inventory management, customer service}",448
+0.05049797696856521,"{leadership, customer service}",649
+0.01455026455026455,"{lifting, customer service}",187
+0.012760659819483348,"{management, customer service}",164
+0.013149704326174915,"{customer service, marketing}",169
+0.025910364145658265,"{merchandising, customer service}",333
+0.013927793339558046,"{microsoft office, customer service}",179
+0.01657329598506069,"{microsoft office suite, customer service}",213
+0.017040149393090568,"{multitasking, customer service}",219
+0.013849984438219732,"{customer service, organization}",178
+0.015328353563647682,"{organizational skills, customer service}",197
+0.011671335200746966,"{physical stamina, customer service}",150
+0.04061624649859944,"{problem solving, customer service}",522
+0.043106131341425456,"{problemsolving, customer service}",554
+0.013227513227513227,"{product knowledge, customer service}",170
+0.014239028944911298,"{customer service, retail}",183
+0.018674136321195144,"{retail experience, customer service}",240
+0.022331154684095862,"{customer service, safety}",287
+0.052754435107376284,"{sales, customer service}",678
+0.019996887643946467,"{scheduling, customer service}",257
+0.011904761904761904,"{supervisory experience, customer service}",153
+0.010115157173980703,"{team management, customer service}",130
+0.07314036725801432,"{customer service, teamwork}",940
+0.04411764705882353,"{time management, customer service}",567
+0.037426081543728604,"{customer service, training}",481
+0.015172735760971055,"{data analysis, leadership}",195
+0.018518518518518517,"{data analysis, problem solving}",238
+0.012994086523498288,"{data analysis, problemsolving}",167
+0.01953003423591659,"{data analysis, project management}",251
+0.010192966075319016,"{data analysis, reporting}",131
+0.016728913787737318,"{data analysis, teamwork}",215
+0.014083411142234672,"{data analysis, time management}",181
+0.011593526299408652,"{leadership, decision making}",149
+0.01735138499844382,"{decision making, problem solving}",223
+0.011515717398070339,"{problemsolving, decisionmaking}",148
+0.010192966075319016,"{dental benefits, medical benefits}",131
+0.010348583877995643,"{dental benefits, vision benefits}",133
+0.01353874883286648,"{dental insurance, health insurance}",174
+0.011982570806100218,"{life insurance, dental insurance}",154
+0.020697167755991286,"{dental insurance, vision insurance}",266
+0.010426392779333956,"{leadership, development}",134
+0.01680672268907563,"{training, development}",216
+0.022486772486772486,"{inclusion, diversity}",289
+0.011593526299408652,"{documentation, nursing}",149
+0.014005602240896359,"{documentation, patient care}",180
+0.010192966075319016,"{documentation, teamwork}",131
+0.011671335200746966,"{excel, word}",150
+0.011204481792717087,"{flexibility, leadership}",144
+0.010737628384687208,"{flexibility, problemsolving}",138
+0.019685652038593213,"{flexibility, teamwork}",253
+0.01252723311546841,"{flexibility, time management}",161
+0.01050420168067227,"{food safety, inventory management}",135
+0.012215997510115158,"{vision insurance, health insurance}",157
+0.010192966075319016,"{sales, high school diploma}",131
+0.01353874883286648,"{high school diploma, teamwork}",174
+0.013383131030189854,"{hiring, training}",172
+0.015250544662309368,"{leadership, interpersonal skills}",196
+0.014005602240896359,"{interpersonal skills, organizational skills}",180
+0.012760659819483348,"{interpersonal skills, problem solving}",164
+0.010737628384687208,"{project management, interpersonal skills}",138
+0.015717398070339245,"{interpersonal skills, teamwork}",202
+0.014005602240896359,"{time management, interpersonal skills}",180
+0.017117958294428883,"{leadership, inventory management}",220
+0.011593526299408652,"{merchandising, inventory management}",149
+0.011749144102085279,"{problem solving, inventory management}",151
+0.010815437286025522,"{problemsolving, inventory management}",139
+0.013071895424836602,"{scheduling, inventory management}",168
+0.01579520697167756,"{inventory management, teamwork}",203
+0.016884531590413945,"{inventory management, training}",217
+0.014628073451602863,"{leadership, management}",188
+0.011749144102085279,"{leadership, microsoft office suite}",151
+0.012838468720821661,"{leadership, nursing}",165
+0.012293806411453471,"{leadership, patient care}",158
+0.01050420168067227,"{leadership, planning}",135
+0.03439153439153439,"{leadership, problem solving}",442
+0.03159041394335512,"{leadership, problemsolving}",406
+0.025443510737628384,"{leadership, project management}",327
+0.017818238406473702,"{leadership, safety}",229
+0.018440709617180206,"{leadership, sales}",237
+0.016184251478369126,"{leadership, scheduling}",208
+0.010037348272642391,"{leadership, supervision}",129
+0.012138188608776844,"{leadership, team management}",156
+0.04855275443510738,"{leadership, teamwork}",624
+0.02933395580454404,"{leadership, time management}",377
+0.03478057889822596,"{leadership, training}",447
+0.011593526299408652,"{life insurance, vision insurance}",149
+0.012449424214130096,"{standing, lifting}",160
+0.01478369125427949,"{sales, marketing}",190
+0.01050420168067227,"{merchandising, sales}",135
+0.011126672891378774,"{microsoft word, microsoft excel}",143
+0.011126672891378774,"{microsoft office, teamwork}",143
+0.010426392779333956,"{microsoft office, time management}",134
+0.012449424214130096,"{microsoft office suite, problem solving}",160
+0.010971055088702147,"{microsoft office suite, project management}",141
+0.01579520697167756,"{microsoft office suite, teamwork}",203
+0.01478369125427949,"{time management, microsoft office suite}",190
+0.011826953003423592,"{multitasking, problem solving}",152
+0.01758481170245876,"{multitasking, teamwork}",226
+0.01610644257703081,"{multitasking, time management}",207
+0.03493619670090258,"{patient care, nursing}",449
+0.01579520697167756,"{nursing, teamwork}",203
+0.011749144102085279,"{organization, teamwork}",151
+0.012994086523498288,"{time management, organization}",167
+0.011126672891378774,"{problem solving, organizational skills}",143
+0.012838468720821661,"{organizational skills, teamwork}",165
+0.01828509181450358,"{time management, organizational skills}",235
+0.010426392779333956,"{patient care, patient education}",134
+0.02030812324929972,"{patient care, teamwork}",261
+0.020852785558667913,"{project management, problem solving}",268
+0.01750700280112045,"{sales, problem solving}",225
+0.040538437597261126,"{problem solving, teamwork}",521
+0.03159041394335512,"{time management, problem solving}",406
+0.014394646747587924,"{problem solving, training}",185
+0.011360099595393714,"{project management, problemsolving}",146
+0.01478369125427949,"{sales, problemsolving}",190
+0.04894179894179894,"{problemsolving, teamwork}",629
+0.029178338001867414,"{time management, problemsolving}",375
+0.014939309056956116,"{problemsolving, training}",192
+0.01027077497665733,"{professionalism, teamwork}",132
+0.010037348272642391,"{scheduling, project management}",129
+0.01805166511048864,"{project management, teamwork}",232
+0.014005602240896359,"{time management, project management}",180
+0.016962340491752256,"{safety, teamwork}",218
+0.01556178026766262,"{training, safety}",200
+0.025521319638966696,"{sales, teamwork}",328
+0.01556178026766262,"{time management, sales}",200
+0.011982570806100218,"{sales, training}",154
+0.012916277622159975,"{scheduling, teamwork}",166
+0.01805166511048864,"{scheduling, training}",232
+0.012293806411453471,"{standing, walking}",158
+0.01027077497665733,"{supervision, training}",132
+0.046062869592281355,"{time management, teamwork}",592
+0.023109243697478993,"{training, teamwork}",297
+0.014239028944911298,"{time management, training}",183
+0.024509803921568627,"{verbal communication, written communication}",315
+0.013383131030189854,"{communication, customer service, adaptability}",172
+0.010426392779333956,"{leadership, communication, adaptability}",134
+0.010659819483348895,"{communication, problem solving, adaptability}",137
+0.011515717398070339,"{communication, problemsolving, adaptability}",148
+0.01727357609710551,"{communication, adaptability, teamwork}",222
+0.010426392779333956,"{time management, communication, adaptability}",134
+0.010737628384687208,"{adaptability, customer service, teamwork}",138
+0.01027077497665733,"{adaptability, problemsolving, teamwork}",132
+0.02482103952692188,"{attention detail, customer service, communication}",319
+0.014239028944911298,"{leadership, attention detail, communication}",183
+0.01836290071584189,"{attention detail, problem solving, communication}",236
+0.018985371926548398,"{attention detail, problemsolving, communication}",244
+0.02964519140989729,"{communication, attention detail, teamwork}",381
+0.021708683473389355,"{time management, attention detail, communication}",279
+0.011515717398070339,"{teamwork, attention detail, communication skills}",148
+0.011126672891378774,"{attention detail, problem solving, customer service}",143
+0.01455026455026455,"{attention detail, problemsolving, customer service}",187
+0.022408963585434174,"{attention detail, customer service, teamwork}",288
+0.01680672268907563,"{time management, attention detail, customer service}",216
+0.011904761904761904,"{leadership, attention detail, teamwork}",153
+0.014005602240896359,"{attention detail, problem solving, teamwork}",180
+0.011749144102085279,"{attention detail, time management, problem solving}",151
+0.017740429505135387,"{attention detail, problemsolving, teamwork}",228
+0.012449424214130096,"{attention detail, time management, problemsolving}",160
+0.019685652038593213,"{time management, attention detail, teamwork}",253
+0.011515717398070339,"{cash handling, customer service, communication}",148
+0.010893246187363835,"{leadership, coaching, communication}",140
+0.015483971366324307,"{leadership, collaboration, communication}",199
+0.010115157173980703,"{collaboration, problem solving, communication}",130
+0.011204481792717087,"{collaboration, problemsolving, communication}",144
+0.013071895424836602,"{collaboration, communication, teamwork}",168
+0.010348583877995643,"{conflict resolution, leadership, communication}",133
+0.010582010582010581,"{critical thinking, patient care, communication}",136
+0.01353874883286648,"{communication, critical thinking, teamwork}",174
+0.012060379707438531,"{flexibility, customer service, communication}",155
+0.012682850918145036,"{customer service, high school diploma, communication}",163
+0.020152505446623094,"{inventory management, customer service, communication}",259
+0.03649237472766884,"{leadership, customer service, communication}",469
+0.01478369125427949,"{merchandising, customer service, communication}",190
+0.010893246187363835,"{multitasking, customer service, communication}",140
+0.028011204481792718,"{problem solving, customer service, communication}",360
+0.0332244008714597,"{problemsolving, customer service, communication}",427
+0.010582010582010581,"{customer service, retail, communication}",136
+0.013383131030189854,"{customer service, safety, communication}",172
+0.03353563647681295,"{sales, customer service, communication}",431
+0.012138188608776844,"{scheduling, customer service, communication}",156
+0.05228758169934641,"{communication, customer service, teamwork}",672
+0.030189853719265483,"{time management, customer service, communication}",388
+0.023809523809523808,"{customer service, training, communication}",306
+0.010971055088702147,"{data analysis, leadership, communication}",141
+0.011749144102085279,"{data analysis, problem solving, communication}",151
+0.010192966075319016,"{data analysis, project management, communication}",131
+0.011126672891378774,"{data analysis, communication, teamwork}",143
+0.011671335200746966,"{decision making, problem solving, communication}",150
+0.014161220043572984,"{flexibility, communication, teamwork}",182
+0.012371615312791783,"{leadership, inventory management, communication}",159
+0.011437908496732025,"{communication, inventory management, teamwork}",147
+0.027544351073762838,"{leadership, problem solving, communication}",354
+0.025754746342981638,"{leadership, problemsolving, communication}",331
+0.01680672268907563,"{leadership, project management, communication}",216
+0.012760659819483348,"{leadership, safety, communication}",164
+0.013616557734204794,"{leadership, sales, communication}",175
+0.0112822906940554,"{leadership, scheduling, communication}",145
+0.03867102396514161,"{leadership, communication, teamwork}",497
+0.023109243697478993,"{leadership, time management, communication}",297
+0.024431995020230315,"{leadership, training, communication}",314
+0.010426392779333956,"{microsoft office suite, communication, teamwork}",134
+0.010971055088702147,"{multitasking, communication, teamwork}",141
+0.016417678182384064,"{patient care, nursing, communication}",211
+0.011515717398070339,"{communication, nursing, teamwork}",148
+0.014316837846249611,"{communication, patient care, teamwork}",184
+0.01252723311546841,"{project management, problem solving, communication}",161
+0.013071895424836602,"{sales, problem solving, communication}",168
+0.03127917833800187,"{communication, problem solving, teamwork}",402
+0.022486772486772486,"{time management, problem solving, communication}",289
+0.010971055088702147,"{problem solving, training, communication}",141
+0.012215997510115158,"{sales, problemsolving, communication}",157
+0.03929349517584812,"{communication, problemsolving, teamwork}",505
+0.022331154684095862,"{time management, problemsolving, communication}",287
+0.011671335200746966,"{problemsolving, training, communication}",150
+0.011982570806100218,"{communication, project management, teamwork}",154
+0.012060379707438531,"{communication, safety, teamwork}",155
+0.020230314347961405,"{sales, communication, teamwork}",260
+0.01104886399004046,"{time management, sales, communication}",142
+0.03182384064737006,"{time management, communication, teamwork}",409
+0.016651104886399003,"{communication, training, teamwork}",214
+0.010815437286025522,"{time management, training, communication}",139
+0.011982570806100218,"{teamwork, customer service, communication skills}",154
+0.010192966075319016,"{flexibility, customer service, teamwork}",131
+0.010893246187363835,"{customer service, high school diploma, teamwork}",140
+0.013383131030189854,"{leadership, inventory management, customer service}",172
+0.011826953003423592,"{inventory management, customer service, teamwork}",152
+0.011904761904761904,"{customer service, inventory management, training}",153
+0.014005602240896359,"{leadership, problem solving, customer service}",180
+0.013772175536881419,"{leadership, problemsolving, customer service}",177
+0.013383131030189854,"{leadership, sales, customer service}",172
+0.021942110177404293,"{leadership, customer service, teamwork}",282
+0.014939309056956116,"{leadership, time management, customer service}",192
+0.02030812324929972,"{leadership, customer service, training}",261
+0.011904761904761904,"{sales, problem solving, customer service}",153
+0.016884531590413945,"{problem solving, customer service, teamwork}",217
+0.012682850918145036,"{time management, problem solving, customer service}",163
+0.012760659819483348,"{sales, problemsolving, customer service}",164
+0.025988173046996577,"{problemsolving, customer service, teamwork}",334
+0.015873015873015872,"{time management, problemsolving, customer service}",204
+0.021241830065359478,"{sales, customer service, teamwork}",273
+0.010348583877995643,"{time management, sales, customer service}",133
+0.010582010582010581,"{customer service, scheduling, training}",136
+0.02209772798008092,"{time management, customer service, teamwork}",284
+0.014161220043572984,"{customer service, training, teamwork}",182
+0.011982570806100218,"{dental insurance, vision insurance, health insurance}",154
+0.010971055088702147,"{life insurance, vision insurance, dental insurance}",141
+0.016184251478369126,"{leadership, problem solving, teamwork}",208
+0.011749144102085279,"{leadership, time management, problem solving}",151
+0.01750700280112045,"{leadership, problemsolving, teamwork}",225
+0.011437908496732025,"{leadership, time management, problemsolving}",147
+0.016184251478369126,"{leadership, time management, teamwork}",208
+0.014161220043572984,"{leadership, training, teamwork}",182
+0.010815437286025522,"{patient care, nursing, teamwork}",139
+0.014316837846249611,"{time management, problem solving, teamwork}",184
+0.018907563025210083,"{time management, problemsolving, teamwork}",243
+0.011360099595393714,"{attention detail, problemsolving, customer service, communication}",146
+0.017117958294428883,"{communication, attention detail, customer service, teamwork}",220
+0.012293806411453471,"{time management, attention detail, customer service, communication}",158
+0.01104886399004046,"{attention detail, communication, problem solving, teamwork}",142
+0.013383131030189854,"{attention detail, communication, problemsolving, teamwork}",172
+0.013849984438219732,"{time management, attention detail, communication, teamwork}",178
+0.010582010582010581,"{attention detail, problemsolving, customer service, teamwork}",136
+0.01050420168067227,"{time management, attention detail, customer service, teamwork}",135
+0.010659819483348895,"{leadership, inventory management, customer service, communication}",137
+0.012293806411453471,"{leadership, problem solving, customer service, communication}",158
+0.012138188608776844,"{leadership, problemsolving, customer service, communication}",156
+0.010582010582010581,"{leadership, sales, customer service, communication}",136
+0.018596327419856833,"{leadership, communication, customer service, teamwork}",239
+0.012605042016806723,"{leadership, time management, customer service, communication}",162
+0.015483971366324307,"{leadership, customer service, training, communication}",199
+0.01455026455026455,"{communication, problem solving, customer service, teamwork}",187
+0.01104886399004046,"{sales, problemsolving, customer service, communication}",142
+0.021708683473389355,"{communication, problemsolving, customer service, teamwork}",279
+0.012838468720821661,"{time management, problemsolving, customer service, communication}",165
+0.017117958294428883,"{sales, communication, customer service, teamwork}",220
+0.016651104886399003,"{time management, communication, customer service, teamwork}",214
+0.010893246187363835,"{customer service, communication, training, teamwork}",140
+0.014005602240896359,"{leadership, communication, problem solving, teamwork}",180
+0.014861500155617803,"{leadership, communication, problemsolving, teamwork}",191
+0.013383131030189854,"{leadership, time management, communication, teamwork}",172
+0.011593526299408652,"{leadership, communication, training, teamwork}",149
+0.010971055088702147,"{time management, problem solving, communication, teamwork}",141
+0.015017117958294428,"{time management, problemsolving, communication, teamwork}",193
+0.010348583877995643,"{time management, problemsolving, customer service, teamwork}",133
